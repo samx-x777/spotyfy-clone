@@ -1,0 +1,61 @@
+.flex{
+    display: flex;
+}
+
+.just{
+    justify-content: center;
+}
+
+.item{
+    align-items: center;
+}
+
+.flexd-c{
+    flex-direction: column;
+}
+
+.flexd-r{
+    flex-direction: row;
+}
+
+.gap1{
+    gap: 10px;
+}
+
+.gap2{
+    gap: 20px;
+}
+
+.gap3{
+    gap: 30px;
+}
+
+.gap4{
+    gap: 40px;
+}
+
+.borderx{
+    border-radius: 20px;
+}
+
+.roboto-x-1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.class-logo-xm{
+    width: 20px;
+}
+
+.m1{
+    margin-right: 20px;
+}
+
+.font-weit{
+    font-weight: 400;
+}
+
+.gray{
+    color: gray;
+}
